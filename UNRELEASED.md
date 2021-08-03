@@ -34,5 +34,6 @@ Use [the changelog guidelines](https://git.io/polaris-changelog-guidelines) to f
 - Modernized tests for FormLayout and some components of ColorPicker ([#4330](https://github.com/Shopify/polaris-react/pull/4330))
 - Modernized tests for Breadcrumbs, BulkActions, Button, ButtonGroup/Item, and ButtonGroup components([#4315](https://github.com/Shopify/polaris-react/pull/4315))
 - Modernized tests for DualThumb ([#4341](https://github.com/Shopify/polaris-react/pull/4341))
+- Modernized tests for SkeletonBodyTest, SkeletonDisplayTest, SkeletonPage, SkeletonThumbnail, and Spinner components ([#4353](https://github.com/Shopify/polaris-react/pull/4353))
 
 ### Deprecations
